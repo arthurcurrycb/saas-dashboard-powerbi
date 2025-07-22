@@ -17,7 +17,7 @@ The fictitious company offers two types of plans (monthly and annual) and alread
 
 - How is retention evolving over time?
 - What is the average customer lifetime by plan type?
-- Which customers churn the most — and why?
+- Which customers churn the most and why?
 - Is there a relationship between support usage and churn?
 
 This project was an opportunity to apply data modeling, DAX, and strategic visualization in Power BI to solve real business problems.
@@ -80,7 +80,7 @@ The dashboard was structured into **5 thematic pages**, each addressing a specif
    Analysis of cancellations by age group, gender, plan type, and support usage.
 
 4. **Revenue by Product and Segment**  
-   Revenue by product, age group, and gender — including cross-segment analysis.
+   Revenue by product, age group, and gender, including cross-segment analysis.
 
 5. **Support and Retention**  
    Exploration of the relationship between support usage and churn: channels, reasons, and frequency.
@@ -129,7 +129,7 @@ This was a great opportunity to put DAX, data modeling, and visualization into p
 ### 💡 Key Learnings
 
 - Structure and naming consistency make a big difference in project clarity
-- Not every metric needs to exist from the start — but every metric created must be validated
+- Not every metric needs to exist from the start, but every metric created must be validated
 - Visual clarity comes from both good design and good data structure
 
 ---
