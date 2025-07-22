@@ -137,7 +137,7 @@ Foi uma ótima forma de aplicar na prática conceitos de DAX, modelagem e visual
 
 ## 🔄 Próximos passos
 
-- Criar versões com diferentes identidades visuais
+- Adaptar design à identidade visual de uma empresa (mesmo que fictícia)
 - Recriar a análise no Looker Studio para fins comparativos
 - Publicar uma versão online e navegável do dashboard
 
