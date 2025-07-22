@@ -71,19 +71,19 @@ Organizei as medidas em dois grupos:
 
 Organizei o dashboard em **5 abas temáticas**:
 
-1. **Snapshot**  
+1. **Visão Atual (Snapshot)**  
    Visão executiva atual: clientes ativos, MRR, ARPU, perfil da base e receita por plano.
 
-2. **Evolução no Tempo**  
+3. **Evolução no Tempo**  
    Tendências mensais: crescimento da base, churn, receita e movimentações.
 
-3. **Churn e Perfil**  
+4. **Churn e Perfil**  
    Análise de cancelamentos por faixa etária, gênero, tipo de plano e uso de suporte.
 
-4. **Receita por Segmento**  
+6. **Receita por Produto e Segmento**  
    Receita por produto, faixa etária, gênero e cruzamentos entre essas dimensões.
 
-5. **Suporte e Retenção**  
+8. **Suporte e Retenção**  
    Relação entre uso de suporte e churn: motivos, canais e frequência de atendimento.
 
 ---
@@ -97,17 +97,27 @@ Cada aba do dashboard responde a uma pergunta estratégica e foi pensada para se
 **1. Visão Atual (Snapshot)**  
 Panorama do estado atual: KPIs principais e distribuição dos clientes.
 
+  ![Página 01 - Visão Atual (Snapshot)](./images/saas-dashboard-powerbi-page-01.png)
+
 **2. Evolução no Tempo**  
 Compreensão da dinâmica de crescimento, retenção e churn mês a mês.
 
-**3. Churn e Perfil**  
+  ![Página 02 - Evolução no Tempo](./images/saas-dashboard-powerbi-page-02.png)
+
+**3. Churn e Perfil de Cliente**  
 Identificação de padrões de cancelamento e perfis de risco.
 
-**4. Receita por Segmento**  
+  ![Página 03 - Churn e Perfil de Cliente](./images/saas-dashboard-powerbi-page-03.png)
+
+**4. Receita por Produto e Segmento**  
 Avaliação do potencial de receita por plano e perfil de cliente.
+
+   ![Página 04 - Receita por Produto e Segmento](./images/saas-dashboard-powerbi-page-04.png)  
 
 **5. Suporte e Retenção**  
 Exploração da influência do suporte na retenção.
+
+  ![Página 05 - Suporte e Retenção](./images/saas-dashboard-powerbi-page-05.png)
 
 ---
 
