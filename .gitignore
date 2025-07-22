@@ -1,0 +1,25 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Backups e temporários
+*.bak
+*.tmp
+*.temp
+~$*
+
+# Power BI auto-saves (se tiver)
+*.pbix.autosave
+
+# Dados sensíveis ou grandes (se decidir manter fora)
+data/
+*.zip
+*.rar
+
+# Python ou Jupyter (se usar futuramente)
+__pycache__/
+*.ipynb_checkpoints
+
+# Arquivos de log ou cache
+*.log
+.cache/
